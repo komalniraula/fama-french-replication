@@ -56,6 +56,7 @@ These results indicate the replication closely follows the official factors, esp
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Launch the Notebook
 jupyter notebook replicating_fama_french_factor.ipynb
