@@ -59,5 +59,6 @@ pip install -r requirements.txt
 ```
 
 ### 2. Launch the Notebook
+```bash
 jupyter notebook replicating_fama_french_factor.ipynb
 
